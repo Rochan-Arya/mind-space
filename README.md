@@ -2,7 +2,7 @@
 
 Mindspace is a mindfulness and meditation application designed to enhance mental well-being and promote relaxation through guided meditation sessions and soothing music tracks. This app aims to provide users with an immersive experience tailored to their emotional states, helping them achieve a more balanced and peaceful mind.
 
-![Mindspace App Screenshot](assets/images/Mindspace.png)
+![Mindspace App Screenshot](assets/images/MindSpace.png)
 
 
 # Features
