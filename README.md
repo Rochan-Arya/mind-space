@@ -11,13 +11,10 @@ https://github.com/user-attachments/assets/161004c8-bcca-4170-83c6-94c9af907778
 
 # Features
 Personalized Meditation Sessions: 
-Users can select from various meditation tracks tailored to their preferences and emotional states.
+  Users can select from various meditation tracks.
 
 Progress Tracking: 
   Monitor meditation time, completed sessions, and streaks to motivate and encourage users on their mindfulness journey.
-
-Real-time Notifications: 
-  Set reminders for daily meditation practice, ensuring users maintain their mindfulness routine.
 
 Engaging UI:
   A clean and user-friendly interface designed for seamless navigation and an enjoyable experience.
