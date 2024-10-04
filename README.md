@@ -5,6 +5,10 @@ Mindspace is a mindfulness and meditation application designed to enhance mental
 ![Mindspace App Screenshot](assets/images/MindSpace.png)
 
 
+
+https://github.com/user-attachments/assets/161004c8-bcca-4170-83c6-94c9af907778
+
+
 # Features
 Personalized Meditation Sessions: 
 Users can select from various meditation tracks tailored to their preferences and emotional states.
